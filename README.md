@@ -1,4 +1,4 @@
-##SENDING-MESSAGES-TO-MOBILE-USING-PYTHON
+**SENDING-MESSAGES-TO-MOBILE-USING-PYTHON
 
 Send sms via a terminal. Uses python and way2sms.
 
